@@ -8,7 +8,6 @@ Based on the Boilerplate by Differential: http://github.differential.io/meteor-b
 ## What's included
 
 * File Structure
-* <a href="http://coffeescript.org/" target="_blank">Coffeescript</a>
 * <a href="http://lesscss.org/" target="_blank">LESS</a>
 * <a href="https://github.com/EventedMind/iron-router" target="_blank">Iron Router</a>
 * <a href="http://github.differential.io/accounts-entry" target="_blank">Accounts-Entry</a>
