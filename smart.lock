@@ -11,7 +11,10 @@
         "git": "https://github.com/EventedMind/meteor-handlebars-server.git",
         "branch": "master"
       },
-      "minimongoid": {}
+      "minimongoid": {},
+      "kadira": {},
+      "profile": {},
+      "gravatar": {}
     },
     "packages": {
       "iron-router": {
@@ -34,6 +37,21 @@
         "tag": "v0.8.8",
         "commit": "cf8d0bec44934d617544965977f270f2a8cdca02"
       },
+      "kadira": {
+        "git": "https://github.com/meteorhacks/kadira.git",
+        "tag": "v2.4.13",
+        "commit": "1f3c1a427084af5a2eca2e299eb65bc01387df8a"
+      },
+      "profile": {
+        "git": "https://github.com/Differential/meteor-profile.git",
+        "tag": "v0.0.10",
+        "commit": "2540cdc76cf5c5fdf6ee0fd0cff1e37c4b1ba519"
+      },
+      "gravatar": {
+        "git": "https://github.com/tmeasday/meteor-gravatar.git",
+        "tag": "v0.0.4",
+        "commit": "d1052ff4401725c23fb199c0e0a36e29b926bc22"
+      },
       "iron-layout": {
         "git": "https://github.com/EventedMind/iron-layout.git",
         "tag": "v0.2.0",
@@ -54,6 +72,11 @@
         "tag": "v2.3.3",
         "commit": "4a5d70eee48fbd90a6e6fc78747250d704a0b3bb"
       },
+      "crypto-md5": {
+        "git": "https://github.com/oortcloud/meteor-crypto-md5.git",
+        "tag": "v3.1.2.2",
+        "commit": "75bbb3eeace302122d3554a6212a6fe92553fa18"
+      },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
         "tag": "v0.2.5",
@@ -68,6 +91,11 @@
         "git": "https://github.com/EventedMind/iron-dynamic-template.git",
         "tag": "v0.2.1",
         "commit": "4dd1185c4d9d616c9abdb3f33e4a7d5a88db7e18"
+      },
+      "crypto-base": {
+        "git": "https://github.com/oortcloud/meteor-crypto-base.git",
+        "tag": "v3.1.2.1",
+        "commit": "5df8d82a0595553415bbfae2930c6ecbeece5794"
       }
     }
   }
