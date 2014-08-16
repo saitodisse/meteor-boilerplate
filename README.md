@@ -1,6 +1,9 @@
 # meteor-boilerplate
 
-A starting point for meteorjs applications, includes Iron Router, Bootstrap 3, Font Awesome, LESS and Coffeescript.
+A starting point for meteorjs applications, includes Iron Router, Bootstrap 3, Font Awesome, LESS.
+
+Based on the Boilerplate by Differential: http://github.differential.io/meteor-boilerplate/
+ 
 
 ## What's included
 
